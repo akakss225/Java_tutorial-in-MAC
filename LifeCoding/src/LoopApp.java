@@ -11,7 +11,8 @@ public class LoopApp {
 			System.out.println(a);
 			a++;
 		}
-
+		
+		
 	}
 
 }
