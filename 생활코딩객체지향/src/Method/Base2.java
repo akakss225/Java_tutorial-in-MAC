@@ -2,7 +2,7 @@ package Method;
 
 public class Base2 {
 	
-	public static String delimeter = "";
+	
 
 	public static void main(String[] args) {
 		delimeter = "----";
@@ -23,7 +23,7 @@ public class Base2 {
 		
 		
 	}
-
+	public static String delimeter = "";
 	public static void printA() {
 		System.out.println(delimeter);
 		System.out.println("A");
